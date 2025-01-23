@@ -8,4 +8,6 @@ __pycache__/
 shop_app/migrations/*.py
 
 settings.py
+*.log
+*.sqlite3
 
