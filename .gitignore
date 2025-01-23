@@ -1,0 +1,11 @@
+# Virtual environment
+env/
+
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+shop_app/migrations/*.py
+
+settings.py
+
