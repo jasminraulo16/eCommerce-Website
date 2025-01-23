@@ -1,0 +1,30 @@
+.profile-card {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background: #f9f9f9;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .profile-pic {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
+  
+  .email {
+    margin: 10px 0;
+    font-size: 16px;
+  }
+  
+  .edit-button {
+    padding: 10px 100px;
+    font-size: 14px;
+    background: #0a6cd5;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  

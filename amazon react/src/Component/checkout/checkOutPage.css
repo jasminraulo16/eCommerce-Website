@@ -1,0 +1,39 @@
+/* CheckoutPage.css */
+/* .checkout-page {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }*/
+  
+  .checkout-page{
+    background-color: whitesmoke;
+    padding: 20px 18px 18px;
+    display: flex;
+    gap: 10px;
+  }
+
+  .topLeft{
+    padding: 20px 15px 15px;
+    box-sizing: border-box;
+    width: 77%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.topRightCart{
+  padding: 20px 15px 15px;
+  box-sizing: border-box;
+  width: 23%;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  height: fit-content;
+  
+}
+  
+  

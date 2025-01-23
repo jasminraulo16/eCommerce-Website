@@ -1,0 +1,57 @@
+/* PaymentSection.css */
+.payment-section {
+    max-width: 500px;
+    margin: 20px auto;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 40px 20px;
+    background-color: #f9f9f9;
+    text-align: center;
+  }
+  
+  .payment-title {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    text-decoration: underline;
+  }
+  
+  .payment-options {
+    
+    width: 300px;
+  }
+  
+  .payment-button {
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  .paypal-button {
+    background-color: #0080ff;
+    color: #fff;
+    padding: 10px 50px;
+  }
+  
+  .paypal-button:hover {
+    background-color: #0056b3;
+    color: #e0e0e0;
+  }
+  
+  .razorpay-button {
+    background-color: #ffc439;
+    color: #111;
+    padding: 10px 40px;
+  }
+  
+  .razorpay-button:hover {
+    background-color: #ffb122;
+    color: #000;
+  }
+  
